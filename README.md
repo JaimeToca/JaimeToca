@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Based in Madrid 🐻")  
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Speak 🇺🇸 🇪🇸")     
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Love ☕ , 🎮, 📖, 🐶, :airplane:")  
-&nbsp;&nbsp;&nbsp;&nbsp;Text("Best food 🇵🇪")  
+&nbsp;&nbsp;&nbsp;&nbsp;Text("Love 🇵🇪 food")  
 &nbsp;&nbsp;}  
 **}**
 
