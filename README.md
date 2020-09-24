@@ -3,9 +3,9 @@
 &nbsp;&nbsp;Column (modifier = Modifier.padding(16.dp)) {  
 &nbsp;&nbsp;&nbsp;&nbsp;Text("**Hola 👋, I'm Jaime"**, style = typography.h4)    
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Based in Madrid 🐻")  
-&nbsp;&nbsp;&nbsp;&nbsp;Text("Speak 🇺🇸 🇪🇸") 
-&nbsp;&nbsp;&nbsp;&nbsp;Text("Work for Dhis2") 
-&nbsp;&nbsp;&nbsp;&nbsp;Text("Love ☕ , 🎮, 📖, 🐶, :airplane: and 🇵🇪 food")  
+&nbsp;&nbsp;&nbsp;&nbsp;Text("Speak 🇺🇸 🇪🇸")   
+&nbsp;&nbsp;&nbsp;&nbsp;Text("Work for Dhis2")   
+&nbsp;&nbsp;&nbsp;&nbsp;Text("Love ☕ , 🎮, 📖, 🐶, :airplane: and 🇵🇪 food")    
 
 &nbsp;&nbsp;&nbsp;&nbsp;Spacer(Modifier.preferredHeight(16.dp))    
 
