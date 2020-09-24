@@ -1,13 +1,13 @@
 @Composable  
-fun Greeting() {    
+**fun Greeting()** {    
 &nbsp;&nbsp;Column (modifier = Modifier.padding(16.dp)) {  
-&nbsp;&nbsp;&nbsp;&nbsp;Text("Hola 👋, I'm Jaime", style = typography.h4)    
+&nbsp;&nbsp;&nbsp;&nbsp;Text("**Hola 👋, I'm Jaime"**, style = typography.h4)    
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Based in Madrid (Spain)")
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Speak 🇺🇸 🇪🇸")   
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Love ☕ , 🎮, 📖, 🐶, :airplane:")  
 &nbsp;&nbsp;&nbsp;&nbsp;Text("Best food 🇵🇪")  
 &nbsp;&nbsp;}  
-}
+**}**
 
 <!--
 **JaimeToca/JaimeToca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
