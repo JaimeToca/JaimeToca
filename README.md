@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Spacer(Modifier.preferredHeight(16.dp))    
 
 &nbsp;&nbsp;&nbsp;&nbsp;Text("**Latest Articles"**, style = typography.h4)  
+&nbsp;&nbsp;&nbsp;&nbsp;Text("[Flying spinning donut with Jetpack Compose](https://www.jaimetoca.com/donut-jetpack-compose/)")   
 &nbsp;&nbsp;&nbsp;&nbsp;Text("[Deploying to Firebase Test Lab from your Docker container](https://www.jaimetoca.com/docker-firebase-testlab-gcloud/)")      
 &nbsp;&nbsp;&nbsp;&nbsp;Text("[Finding the right Docker image for unit and UI tests](https://www.jaimetoca.com/docker-android-espresso-unit-test/)")    
 &nbsp;&nbsp;}  
