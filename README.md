@@ -8,8 +8,7 @@ Love learning about cryptography 🔐
 
 ### Tech Stack 🛠️ 
 
-🧩 **Kotlin** (KMP & End-to-End)  
-🤖 **Android**  
+🧩 **Kotlin** (Android, KMP, JVM)  
 🦀 **Rust**  
 🟦 **TypeScript**  
 ⚛️ **React Native / Flutter**  
