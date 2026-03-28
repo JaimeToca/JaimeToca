@@ -1,7 +1,7 @@
 ### Hi! สวัสดีครับ 👋
 
 Senior Software Engineer with 8+ years of experience in mobile, multiplatform systems, and blockchain.  
-Built software used by **250M+ users**, with a deep understanding of complex end-to-end systems. Led mobile teams and helped secure over **$15B in assets**.
+Built software used by **250M+ users**, helped secure over **$15B in assets**, and led mobile teams.
 
 Currently focused on Rust, multiplatform technologies (KMP, React Native, Flutter), Android and TypeScript. Love learning about cryptography 🔐
 
@@ -16,7 +16,7 @@ Currently focused on Rust, multiplatform technologies (KMP, React Native, Flutte
 
 ### Previous Relevant Work 🏛️ 
 
-- **Trust Wallet / Binance**: Led Wallet Kit (blockchain SDK, 250M+ users, 100+ chains); key contributor to the Binance Web3 Wallet launch; developed end-to-end features for the Trust Wallet Android app.  
+- **Trust Wallet / Binance**: Led Wallet Kit (blockchain SDK, 250M+ users, 100+ chains); key contributor to the Binance Web3 Wallet launch; developed end-to-end features for the TW Android app.  
 - **Vultisig / THORChain**: Contributed to the Vultisig wallet, implementing THORChain DeFi features (staking, LP, swaps), adding new chains, and building end-to-end features.  
 - **eDreams ODIGEO**: Key contributor to the mobile app for one of Europe’s largest OTAs; features developed are still in use today; progressed to Android Staff Engineer level.
 - **DHIS2**: Software Mobile Architect; mentored the team on testing, clean code, design patterns, and best practices; implemented automations, developed mobile features, and mentored in DHIS2 Academies.  
