@@ -3,7 +3,7 @@
 Senior Software Engineer with 8+ years of experience in mobile, multiplatform systems, and blockchain.  
 Built software used by **250M+ users**, helped secure over **$15B in assets**, and led mobile teams.
 
-Currently focused on Rust, multiplatform technologies (KMP, React Native, Flutter), Android and TypeScript.   
+Currently focused on Mobile Tech Stack, Rust, and Typescript.   
 Love learning about cryptography 🔐
 
 ### Tech Stack 🛠️ 
