@@ -16,7 +16,7 @@ Love learning about cryptography 🔐
 
 ### Previous Relevant Work 🏛️ 
 
-- **Trust Wallet / Binance**: Led Wallet Kit (blockchain multiplatform SDK, 250M+ users, 100+ chains); key contributor to the Binance Web3 Wallet launch; developed end-to-end features for the TW Android app.  
+- **Trust Wallet / Binance**: Led Wallet Kit development (blockchain multiplatform SDK, 250M+ users, 100+ chains); key contributor to the Binance Web3 Wallet launch; developed end-to-end features for the TW Android app.  
 - **Vultisig / THORChain**: Contributed to the Vultisig wallet, implementing THORChain DeFi features (staking, LP, swaps), adding new chains, and building end-to-end features.  
 - **eDreams ODIGEO**: Key contributor to the mobile app for one of Europe’s largest OTAs; features developed are still in use today; progressed to Android Staff Engineer level.
 - **DHIS2**: Software Mobile Architect; mentored the team on testing, clean code, design patterns, and best practices; implemented automations, developed mobile features, and mentored in DHIS2 Academies.  
