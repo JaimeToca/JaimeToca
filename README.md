@@ -21,7 +21,7 @@ Love learning about cryptography 🔐
 - **eDreams ODIGEO**: Key contributor to the mobile app for one of Europe’s largest OTAs; features developed are still in use today; progressed to Android Staff Engineer level.
 - **DHIS2**: Software Mobile Architect; mentored the team on testing, clean code, design patterns, and best practices; implemented automations, developed mobile features, and mentored in DHIS2 Academies.  
 
-### Building Public: Open Source Projects & Contributions 🌍
+### Building in Public: Open Source Projects & Contributions 🌍
 
 - [**Guardian SDK**](https://github.com/JaimeToca/guardian-stake-sdk): TypeScript blockchain-agnostic SDK for staking
 - [**Docker Android SDK**](https://github.com/thyrlian/AndroidSDK): Containerized Android SDK environment
