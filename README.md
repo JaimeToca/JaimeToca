@@ -8,8 +8,8 @@ Love learning about cryptography 🔐
 
 ### Tech Stack 🛠️ 
 
-🧩 **Kotlin** (Android & Kotlin Multiplatform)  
-🦀 **Rust**  
+🧩 **Kotlin**       
+🦀 **Rust / Golang**  
 🟦 **TypeScript**  
 ⚛️ **React Native / Flutter**  
 🔗 **Blockchain** (top ecosystems, end-to-end wallet infrastructure, DeFi protocols, SC)
