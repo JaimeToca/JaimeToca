@@ -9,7 +9,7 @@ Love learning about cryptography 🔐
 ### Tech Stack 🛠️ 
 
 🧩 **Kotlin**       
-🦀 **Rust / Golang**  
+🦀 **Golang / Rust**  
 🟦 **TypeScript**  
 ⚛️ **React Native / Flutter**  
 🔗 **Blockchain** (top ecosystems, end-to-end wallet infrastructure, DeFi protocols, SC)
