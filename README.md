@@ -11,7 +11,6 @@ Love learning about cryptography 🔐
 🧩 **Kotlin**       
 🦀 **Golang / Rust**  
 🟦 **TypeScript**  
-⚛️ **React Native / Flutter**  
 🔗 **Blockchain** (top ecosystems, end-to-end wallet infrastructure, DeFi protocols, SC)
 
 ### Previous Relevant Work 🏛️ 
