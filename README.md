@@ -1,6 +1,6 @@
 ### Hi! สวัสดีครับ 👋
 
-Senior Software Engineer with 8+ years of experience in mobile, multiplatform systems, and blockchain.  
+Senior Software Engineer with 8+ years of experience in multiplatform systems, and blockchain.  
 Built software used by **250M+ users**, helped secure over **$15B in assets**, and led mobile teams.
 
 Currently focused on Mobile Tech Stack, Rust, and Typescript.   
