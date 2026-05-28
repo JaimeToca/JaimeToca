@@ -24,7 +24,7 @@ Love learning about cryptography 🔐
 
 - [**Guardian SDK**](https://github.com/JaimeToca/guardian-stake-sdk): TypeScript blockchain-agnostic SDK for staking
 - [**Docker Android SDK**](https://github.com/thyrlian/AndroidSDK): Containerized Android SDK environment
-- [**Vultisig Wallet (THORChain)**](https://github.com/vultisig/vultisig-android): MPC-based multichain wallet focused on the THORChain ecosystem
+- [**Vultisig Wallet (THORChain)**](https://github.com/vultisig): MPC-based multichain wallet focused on the THORChain ecosystem
 - [**Wallet Core**](https://github.com/trustwallet/wallet-core): Low-level blockchain SDK
 - [**DHIS2 Android Capture App**](https://github.com/dhis2/dhis2-android-capture-app): Mobile app, testing, CI/CD, and infrastructure
 - [**DHIS2 Android SDK**](https://github.com/dhis2/dhis2-android-sdk): SDK for building DHIS2 mobile apps
