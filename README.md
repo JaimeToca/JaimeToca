@@ -3,7 +3,6 @@
 Senior Software Engineer with 8+ years of experience in multiplatform systems, and blockchain.  
 Built software used by **250M+ users**, helped secure over **$15B in assets**, and led mobile teams.
 
-Currently focused on Mobile Tech Stack, Rust, and Typescript.   
 Love learning about cryptography 🔐
 
 ### Tech Stack 🛠️ 
@@ -16,9 +15,9 @@ Love learning about cryptography 🔐
 ### Previous Relevant Work 🏛️ 
 
 - **Trust Wallet / Binance**: Led Wallet Kit development (blockchain multiplatform SDK, 250M+ users, 100+ chains); key contributor to the Binance Web3 Wallet launch; developed end-to-end features for the TW Android app.  
-- **Vultisig / THORChain**: Contributed to the Vultisig wallet, implementing THORChain DeFi features (staking, LP, swaps), adding new chains, and building end-to-end features.  
-- **eDreams ODIGEO**: Key contributor to the mobile app for one of Europe’s largest OTAs; features developed are still in use today; progressed to Android Staff Engineer level.
-- **DHIS2**: Software Mobile Architect; mentored the team on testing, clean code, design patterns, and best practices; implemented automations, developed mobile features, and mentored in DHIS2 Academies.  
+- **Vultisig / THORChain**: Contributed to the Vultisig wallet, implementing THORChain DeFi features (staking, LP, swaps), adding new chains, and building end-to-end features.
+- **DHIS2**: Software Architect; mentored the team on testing, clean code, design patterns, and best practices; implemented automations, developed mobile features, and mentored in DHIS2 Academies. 
+- **eDreams ODIGEO**: Key contributor to the mobile app for one of Europe’s largest OTAs; features developed are still in use today; progressed to Android Staff Engineer level.  
 
 ### Building in Public: Open Source Projects & Contributions 🌍
 
