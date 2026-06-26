@@ -27,6 +27,5 @@ Love learning about cryptography 🔐
 - [**Wallet Core**](https://github.com/trustwallet/wallet-core): Low-level blockchain SDK
 - [**DHIS2 Android Capture App**](https://github.com/dhis2/dhis2-android-capture-app): Mobile app, testing, CI/CD, and infrastructure
 - [**DHIS2 Android SDK**](https://github.com/dhis2/dhis2-android-sdk): SDK for building DHIS2 mobile apps
-- [**Donut Jetpack Compose**](https://github.com/JaimeToca/DonutJetpackCompose): Flying spinning donut using Jetpack Compose
 
 …and more
