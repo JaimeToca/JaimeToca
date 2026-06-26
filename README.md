@@ -10,7 +10,9 @@ Love learning about cryptography 🔐
 🧩 **Kotlin**       
 🦀 **Golang / Rust**  
 🟦 **TypeScript**  
-🔗 **Blockchain** (top ecosystems, end-to-end wallet infrastructure, DeFi protocols, SC)
+🔗 **Blockchain** (top ecosystems, end-to-end infrastructure, DeFi, wallet, cross-chain, smart contracts)
+
+end-to-end infrastructure, smart contracts, DeFi, cross-chain systems)
 
 ### Previous Relevant Work 🏛️ 
 
