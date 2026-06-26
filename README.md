@@ -12,8 +12,6 @@ Love learning about cryptography 🔐
 🟦 **TypeScript**  
 🔗 **Blockchain** (top ecosystems, end-to-end infrastructure, DeFi, wallet, cross-chain, smart contracts)
 
-end-to-end infrastructure, smart contracts, DeFi, cross-chain systems)
-
 ### Previous Relevant Work 🏛️ 
 
 - **Trust Wallet / Binance**: Led Wallet Kit development (blockchain multiplatform SDK, 250M+ users, 100+ chains & top ecosystems); key contributor to the Binance Web3 Wallet launch; developed backend services and end-to-end features.  
