@@ -22,6 +22,7 @@ Love learning about cryptography 🔐
 ### Building in Public: Open Source Projects & Contributions 🌍
 
 - [**Guardian SDK**](https://github.com/JaimeToca/guardian-stake-sdk): TypeScript blockchain-agnostic SDK for staking
+- [**Satya BTC**](https://github.com/JaimeToca/satya-btc): Bitcoin fee estimator with in-memory mempool simulation
 - [**Docker Android SDK**](https://github.com/thyrlian/AndroidSDK): Containerized Android SDK environment
 - [**Vultisig Wallet (THORChain)**](https://github.com/vultisig): MPC-based multichain wallet focused on the THORChain ecosystem
 - [**Wallet Core**](https://github.com/trustwallet/wallet-core): Low-level blockchain SDK
